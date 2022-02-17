@@ -1,0 +1,51 @@
+.heading {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  color: black;
+}
+form {
+  width: 50%;
+  margin: 30px auto;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+}
+form p {
+  color: red;
+  margin: 0px;
+}
+
+table {
+  width: 50%;
+  margin: 30px auto;
+  border-collapse: collapse;
+}
+
+tr {
+  border-bottom: 1px solid black;
+}
+
+th {
+  font-size: 19px;
+}
+
+th,td {
+  border: none;
+  height: 30px;
+  padding: 2px;
+}
+
+tr:hover {
+  background: #e9e9e9;
+}
+
+.delete {
+  text-align: center;
+}
+.delete a {
+  color: red;
+  font-size: 1.3em;
+
+  text-decoration: none;
+}
